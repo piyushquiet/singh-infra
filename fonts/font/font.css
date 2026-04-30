@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'myriad_probold';
+    src: url('myriad_pro_bold-webfont.woff2') format('woff2'),
+         url('myriad_pro_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'myriad_proregular';
+    src: url('myriad_pro_regular-webfont.woff2') format('woff2'),
+         url('myriad_pro_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'myriad_prosemibold';
+    src: url('myriad_pro_semibold-webfont.woff2') format('woff2'),
+         url('myriad_pro_semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helvetica_neue_lt_std75_bold';
+    src: url('helvetica_neue_lt_std_75_bold-webfont.woff2') format('woff2'),
+         url('helvetica_neue_lt_std_75_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
